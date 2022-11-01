@@ -63,3 +63,12 @@ Exercícios básicos e iniciais em Java.
      width="50%" title="Exercício1" alt="Java"><br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/8%20resposta.jpg"
      width="50%" title="Exercício1" alt="Java"><br><br>
+
+
+
+
+9 -> Seleção Switch , desenvolvido e compilado no terminal , usar javac e java conforme orientações anteriores !<br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/9.jpg"
+     width="50%" title="Exercício1" alt="Java"><br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/9%20respostas.jpg"
+     width="50%" title="Exercício1" alt="Java"><br><br>
