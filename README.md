@@ -21,3 +21,6 @@ Exercícios básicos e iniciais em Java.
 <br>*importantes usados nesta atividade leitores de teclado com método Scanner, não foi tratado a entrada ex.: string e outros.<br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/7.jpg" width="50%" title="Exercício1" alt="Java"><br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/resposta%207.jpg" width="50%" title="Exercício1" alt="Java"><br><br>
+8 -> Seleção ternário , desensolvido e compilado no terminal , usar javac e java conforme orientações anteriores !<br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/8.jpg" width="50%" title="Exercício1" alt="Java"><br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/8%20resposta.jpg" width="50%" title="Exercício1" alt="Java"><br><br>
