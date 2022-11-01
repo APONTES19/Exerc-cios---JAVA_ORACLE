@@ -11,3 +11,6 @@ Exercícios básicos e iniciais em Java.
 4 -> Operadores matemáticos, desensolvido e compilado no terminal , usavar javac e java conforme orientações anteriores ! <br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/4.jpg?raw=true" width="50%" title="Exercício1" alt="Java"><br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/4%20resposta.jpg?raw=true" width="50%" title="Exercício1" alt="Java"><br><br>
+5 -> Laços (For), desensolvido e compilado no terminal , usavar javac e java conforme orientações anteriores ! <br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/5.jpg?raw=true" width="50%" title="Exercício1" alt="Java"><br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/5%20Resposta.jpg?raw=true" width="50%" title="Exercício1" alt="Java"><br><br>
