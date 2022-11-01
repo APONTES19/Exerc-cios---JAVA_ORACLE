@@ -9,5 +9,5 @@ Exercícios básicos e iniciais em Java.
 <img src="https://raw.githubusercontent.com/APONTES19/Exercicios---JAVA/main/img/3.jpg" width="50%" title="Exercício1" alt="Java"><br><br>
 <img src="https://raw.githubusercontent.com/APONTES19/Exercicios---JAVA/main/img/3.1.jpg" width="50%" title="Exercício1" alt="Java"><br><br>
 4 -> Operadores matemáticos, desensolvido e compilado no terminal , usavar javac e java conforme orientações anteriores ! <br><br>
-<img src="https://raw.githubusercontent.com/APONTES19/Exercicios---JAVA/main/img/3.1.jpg" width="50%" title="Exercício1" alt="Java"><br><br>
-<img src="https://raw.githubusercontent.com/APONTES19/Exercicios---JAVA/main/img/3.1.jpg" width="50%" title="Exercício1" alt="Java"><br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/4.jpg?raw=true" width="50%" title="Exercício1" alt="Java"><br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/4%20resposta.jpg?raw=true" width="50%" title="Exercício1" alt="Java"><br><br>
