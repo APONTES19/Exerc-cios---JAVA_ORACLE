@@ -98,7 +98,7 @@ Exercícios básicos e iniciais em Java.
 
 
 12 -> Convertendo em inteiro quando necessário uso de Interger.Parse e matches, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
-<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/11.jpg"
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/12.jpg"
      width="50%" title="Exercício1" alt="Java"><br><br>
-<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/Exercicio11.gif"
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/12%20resposta.jpg"
      width="50%" title="Exercício1" alt="Java"><br><br>
