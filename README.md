@@ -85,8 +85,7 @@ Exercícios básicos e iniciais em Java.
      
      
      
-     
-     
+      
      
      
 
@@ -97,7 +96,12 @@ Exercícios básicos e iniciais em Java.
      width="50%" title="Exercício1" alt="Java"><br><br>
 
 
+
+
+
+
 12 -> Convertendo em inteiro quando necessário uso de Interger.Parse e matches, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
+Referência usando Matches= https://www.devmedia.com.br/conceitos-basicos-sobre-expressoes-regulares-em-java/27539#:~:text=O%20m%C3%A9todo%20matches%20especifica%20uma,booleano%20(true%20ou%20false) <br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/12.jpg"
      width="50%" title="Exercício1" alt="Java"><br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/12%20resposta.jpg"
