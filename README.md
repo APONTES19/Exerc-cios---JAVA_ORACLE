@@ -113,7 +113,7 @@ Referência usando Matches= https://www.devmedia.com.br/conceitos-basicos-sobre-
      
      
 13 -> Calculadora simples, leitura de dados e switch importante readline quando só ener usar .IsEmpty, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
-<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/12.jpg"
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/13.jpg"
      width="50%" title="Exercício1" alt="Java"><br><br>
-<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/12%20resposta.jpg"
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/Exercicio13.gif"
      width="50%" title="Exercício1" alt="Java"><br><br>
