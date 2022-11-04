@@ -72,3 +72,13 @@ Exercícios básicos e iniciais em Java.
      width="50%" title="Exercício1" alt="Java"><br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/9%20respostas.jpg"
      width="50%" title="Exercício1" alt="Java"><br><br>
+     
+     
+     
+
+
+10 -> Operadores lógicos && -e || -ou, desenvolvido e compilado no terminal , usar javac e java conforme orientações anteriores !<br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/10.jpg"
+     width="50%" title="Exercício1" alt="Java"><br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/10resposta.jpg"
+     width="50%" title="Exercício1" alt="Java"><br><br>
