@@ -173,8 +173,8 @@ Referência https://www.devmedia.com.br/entrada-de-dados-classe-scanner/21366 <b
 
 
           
-18 -> Populando em vetor de inteiro, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
-<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/17.jpg"
+18 -> Populando em matriz de inteiro, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/18.jpg"
      width="50%" title="Exercício1" alt="Java"><br><br>
-<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/17%20resposta.jpg"
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/18%20respostas.jpg"
      width="50%" title="Exercício1" alt="Java"><br><br>
