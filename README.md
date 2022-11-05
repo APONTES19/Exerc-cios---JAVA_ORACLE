@@ -134,7 +134,8 @@ Referência usando Matches= https://www.devmedia.com.br/conceitos-basicos-sobre-
 
 
 
-15 -> Leitor de tela Scanner e descubra se é Impar oe Par, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
+15 -> Leitor Scanner inteiro , e descubra se é Impar ou Par, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
+Referência https://www.devmedia.com.br/entrada-de-dados-classe-scanner/21366 <br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/15.jpg"
      width="50%" title="Exercício1" alt="Java"><br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/ExercicioResposta15.gif"
