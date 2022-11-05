@@ -123,7 +123,7 @@ Referência usando Matches= https://www.devmedia.com.br/conceitos-basicos-sobre-
 
 
 14 -> Usando a classe Math acessa diversas funções matemáticas prontas, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
-<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/13.jpg"
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/14.jpg"
      width="50%" title="Exercício1" alt="Java"><br><br>
-<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/Exercicio13.gif"
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/14%20respostas.jpg"
      width="50%" title="Exercício1" alt="Java"><br><br>
