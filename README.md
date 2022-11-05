@@ -151,9 +151,8 @@ Referência https://www.devmedia.com.br/entrada-de-dados-classe-scanner/21366 <b
      
      
      
-16 -> Leitor Scanner inteiro , e descubra se é Impar ou Par, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
-Referência https://www.devmedia.com.br/entrada-de-dados-classe-scanner/21366 <br><br>
-<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/16.jpg"
-     width="50%" title="Exercício1" alt="Java"><br><br>
+16 -> Usando a classe String, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/16respostas.jpg"
      width="50%" title="Exercício1" alt="Java"><br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/16.jpg"
+     width="50%" title="Exercício1" alt="Java"><br><br
