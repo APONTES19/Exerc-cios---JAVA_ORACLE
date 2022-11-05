@@ -164,8 +164,8 @@ Referência https://www.devmedia.com.br/entrada-de-dados-classe-scanner/21366 <b
      
      
           
-17 -> Usando a classe String, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
-<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/16respostas.jpg"
+17 -> Populando em vetor de inteiro, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/17.jpg"
      width="50%" title="Exercício1" alt="Java"><br><br>
-<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/16.jpg"
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/17%20resposta.jpg"
      width="50%" title="Exercício1" alt="Java"><br><br>
