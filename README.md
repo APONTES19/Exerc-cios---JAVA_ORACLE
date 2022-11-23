@@ -194,7 +194,7 @@ Referência https://www.devmedia.com.br/entrada-de-dados-classe-scanner/21366 <b
      
      
 20 -> Trabalhando com matriz de inteiro, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
-<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/19resposta.jpg"
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/20.jpg"
      width="50%" title="Exercício20" alt="Java"><br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/Exercicio20.java"
      width="50%" title="Exercício20" alt="Java"><br><br>
