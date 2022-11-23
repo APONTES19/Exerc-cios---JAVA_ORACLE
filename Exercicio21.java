@@ -70,20 +70,19 @@ public class Exercicio21
 		int	x;
 		int	y;
 
-		x = 0;
-		y = 0;
+		x = (sizeVetX - 1);
 		System.out.println("\n\tValor da Matriz é:\n\t");
-		while(x < sizeVetX)
+		while(x >= 0)
 		{
 			System.out.print("\t");
-			y = 0;
-			while(y < sizeVetY)
+			y = (sizeVetY - 1);
+			while(y >= 0)
 			{
 				System.out.print(MatrizInt[x][y] + "\t");
-				y++;
+				y--;
 			}
 			System.out.println();
-			x++;
+			x--;
 		}
 		System.out.println();
 	}
