@@ -1,5 +1,5 @@
 # Exercícios---Java
-Exercícios básicos e iniciais em Java.
+Exercícios básicos e iniciais em Java, desenvolvidos no Windows, Linux, Vscode e Netbeans. 
 
 1 -> Exibir na tela textos utilizando de uma loop simpes de programação para isso!<br><br>
 <img src="https://raw.githubusercontent.com/APONTES19/Exercicios---JAVA_ORACLE/main/img/Exerc%C3%ADcio1.jpg"
