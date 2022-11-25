@@ -212,7 +212,7 @@ Referência https://www.devmedia.com.br/entrada-de-dados-classe-scanner/21366 <b
      
      
 22 -> Buscando a data e a hora completa do sistema, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
-<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/21.jpg"
-     width="50%" title="Exercício21" alt="Java"><br><br>
-<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/resposta%2021.gif"
-     width="50%" title="Exercício21" alt="Java"><br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/22.jpg"
+     width="50%" title="Exercício22" alt="Java"><br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/resposta%2022.gif"
+     width="50%" title="Exercício22" alt="Java"><br><br>
