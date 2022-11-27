@@ -216,3 +216,17 @@ Referência https://www.devmedia.com.br/entrada-de-dados-classe-scanner/21366 <b
      width="50%" title="Exercício22" alt="Java"><br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/resposta%2022.gif"
      width="50%" title="Exercício22" alt="Java"><br><br>
+     
+     
+     
+     
+     
+     
+     
+          
+23 -> Trabalhando com classe Math e Operador Módulo, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/23.jpg"
+     width="50%" title="Exercício23" alt="Java"><br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/resposta%2023.gif"
+     width="50%" title="Exercício23" alt="Java"><br><br>
+
