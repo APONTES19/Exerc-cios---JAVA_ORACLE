@@ -236,3 +236,13 @@ Referência https://www.devmedia.com.br/entrada-de-dados-classe-scanner/21366 <b
 24 -> Usando a Class String, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/resposta%2024.gif"
      width="50%" title="Exercício24" alt="Java"><br><br>
+     
+     
+     
+     
+
+25 -> Método this., desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/25.jpg"
+     width="50%" title="Exercício25" alt="Java"><br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/resposta%2025.gif"
+     width="50%" title="Exercício25" alt="Java"><br><br>
