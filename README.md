@@ -250,3 +250,14 @@ Referência https://www.devmedia.com.br/entrada-de-dados-classe-scanner/21366 <b
      width="50%" title="Exercício25" alt="Java"><br><br>
      
      
+       
+     
+     
+          
+
+Atividade01 -> trabalhando com Classes e atribuições, desenvolvido e compilado no vscode , usar javac e java conforme orientações anteriores !<br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/25.jpg"
+     width="50%" title="Atividade01" alt="Java"><br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/25.jpg"
+     width="50%" title="Atividade01" alt="Java"><br><br>
+
