@@ -246,3 +246,7 @@ Referência https://www.devmedia.com.br/entrada-de-dados-classe-scanner/21366 <b
      width="50%" title="Exercício25" alt="Java"><br><br>
 <img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/resposta%2025.gif"
      width="50%" title="Exercício25" alt="Java"><br><br>
+<img src="https://github.com/APONTES19/Exercicios---JAVA/blob/main/img/resposta%2025-b.gif"
+     width="50%" title="Exercício25" alt="Java"><br><br>
+     
+     
